@@ -17,8 +17,7 @@ border: 4px solid#262626;
 }
 
 .assignment img:hover {
-    border: 4px solid#262626;
-    color:darkgrey;
+    border: 4px solid darkgrey;
 }
 
 h1 {
