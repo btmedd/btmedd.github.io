@@ -14,12 +14,11 @@ body {
 width: 200px;
 margin: 10px;
 border: 4px solid#262626;
-border-radius: 5px;
 }
 
 .assignment img:hover {
     border: 4px solid#262626;
-    color:white;
+    color:darkgrey;
 }
 
 h1 {
@@ -28,7 +27,7 @@ h1 {
 }
 
 h1:hover {
-    color:white;
+    color:darkgrey;
 }
 
 a {
@@ -37,6 +36,6 @@ a {
 }
 
 a:hover {
-    color:white;
+    color:darkgrey;
 }
 
